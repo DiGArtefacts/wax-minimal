@@ -326,5 +326,70 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/ASC684/full/250,/0/default.jpg",
     "permalink": "/asc/ASC684",
     "lunr_id": 24
+  },
+  {
+    "pid": "ASC001",
+    "label": "Decorative motif",
+    "object_type": "Relief ",
+    "custody": "Swat Museum",
+    "object_description": "Relief, partially broken having two portions, the upper portion is decorated with two stepped pyramid frames enclosing an acanthus leaf and a palmette. The lower portion has a railing design. ",
+    "material": "schist stone",
+    "provenance": "Abba Sahib Cheena",
+    "collection": "asc2",
+    "thumbnail": "/img/derivatives/iiif/images/ASC001/full/250,/0/default.jpg",
+    "permalink": "/asc2/ASC001",
+    "lunr_id": 25
+  },
+  {
+    "pid": "ASC006",
+    "label": "Courtly figures in a row",
+    "object_type": "Relief ",
+    "custody": "Swat Museum",
+    "object_description": "Relief, partially broken having three figure depicting a story. From the left a figure with a halo is seated under a tree branch. Other two  figures also having a halo are holding a box. ",
+    "material": "schist stone",
+    "provenance": "Abba Sahib Cheena",
+    "collection": "asc2",
+    "thumbnail": "/img/derivatives/iiif/images/ASC006/full/250,/0/default.jpg",
+    "permalink": "/asc2/ASC006",
+    "lunr_id": 26
+  },
+  {
+    "pid": "ASC005",
+    "label": "Ascetics",
+    "object_type": "Relief ",
+    "custody": "Swat Museum",
+    "object_description": "Relief, partially broken with three standing figures and a bodhi tree.",
+    "material": "schist stone",
+    "provenance": "Abba Sahib Cheena",
+    "collection": "asc2",
+    "thumbnail": "/img/derivatives/iiif/images/ASC005/full/250,/0/default.jpg",
+    "permalink": "/asc2/ASC005",
+    "lunr_id": 27
+  },
+  {
+    "pid": "ASC003",
+    "label": "Decorative motif",
+    "object_type": "Relief",
+    "custody": "Swat Museum",
+    "object_description": "Relief, partially broken decorated with lotus flowers in resulting triangles.",
+    "material": "schist stone",
+    "provenance": "Abba Sahib Cheena",
+    "collection": "asc2",
+    "thumbnail": "/img/derivatives/iiif/images/ASC003/full/250,/0/default.jpg",
+    "permalink": "/asc2/ASC003",
+    "lunr_id": 28
+  },
+  {
+    "pid": "ASC004",
+    "label": "Figure seating in vine-scroll",
+    "object_type": "Relief ",
+    "custody": "Swat Museum",
+    "object_description": "Relief, partially broken having figure seated under a vine scroll.",
+    "material": "schist stone",
+    "provenance": "Abba Sahib Cheena",
+    "collection": "asc2",
+    "thumbnail": "/img/derivatives/iiif/images/ASC004/full/250,/0/default.jpg",
+    "permalink": "/asc2/ASC004",
+    "lunr_id": 29
   }
 ]

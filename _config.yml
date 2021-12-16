@@ -79,6 +79,13 @@ collections:
       source: 'asc.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/asc' # path to the directory of images within `_data`
+  asc2: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'asc_item' # the layout for the pages to use
+    metadata:
+      source: 'asc2.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/asc2' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -111,6 +118,15 @@ search:
           - custody
           - material
           - object_description
+      asc2:
+        content: false
+        fields:
+          - label
+          - object_type
+          - provenance
+          - custody
+          - material
+          - object_description
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -132,6 +148,8 @@ menu:
         link: '/collection/diga/'
       - label: 'Abba Sahib Cheena'
         link: '/collection/asc/'
+      - label: 'Abba Sahib Cheena 2'
+        link: '/collection/asc2/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
